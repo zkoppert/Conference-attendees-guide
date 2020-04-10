@@ -1,3 +1,4 @@
+<a href="https://opensource.org"><img height="150" align="right" src="https://opensource.org/files/OSIApprovedCropped.png" alt="Open Source Initiative Approved License logo"></a>
 # Conference-attendees-guide
 Collection of Best practices for conference attendees.
 
